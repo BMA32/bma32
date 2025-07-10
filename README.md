@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Bruno Malheiro</h1>
-<h3 align="center">Passionate data scientist from Portugal. Data doesn't lie, and I can make it talk. 📊</h3>
+<h3 align="center">Passionate data scientist from Portugal. Data doesn't lie, and I can make it talk. 😎📊</h3>
 
-- 👨‍💻 My projects are available at: [troopl.com/bruno-malheiro](troopl.com/bruno-malheiro)
+- 👨‍💻 My projects are also available at: [troopl.com/bruno-malheiro](troopl.com/bruno-malheiro)
 
 - 📫 How to reach me: **brunomalheiroa@gmail.com**
 
